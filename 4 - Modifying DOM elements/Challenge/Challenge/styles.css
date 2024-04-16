@@ -18,6 +18,14 @@ body {
     margin: 20px 0;
 }
 
+.newStyles {
+    background-color: lightblue;
+    font-size: 18px;
+    font-weight: bold;
+    color: green;
+}
+
+
 button {
     padding: 10px 15px;
     cursor: pointer;
